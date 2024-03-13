@@ -14,11 +14,9 @@ const stripe = require("stripe")(process.env.STRIPE_SECRET_KEY, {
   });
   
  
+  const STATIC_DIR = "./client";
 
-
-  app.use(express.static(process.env.STATIC_DIR));
-
-
+  app.use(express.static(path.join(__dirname, STATIC_DIR)));
 
   app.get("/", (req, res) => {
     const path = resolve(process.env.STATIC_DIR + "/index.html");
