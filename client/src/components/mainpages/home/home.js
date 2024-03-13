@@ -9,9 +9,9 @@ import AccountDetails from "./AccountDetails";
 
 import Flood from "../../../assets/Images/flood.jpg"
 import Clothes from "../../../assets/Images/clothes.jpg"
-import sdg1 from "../../../assets/Images/SDG1.PNG"
-import sdg2 from "../../../assets/Images/SDG2.PNG"
-import sdg4 from "../../../assets/Images/SDG4.PNG"
+import sdg1 from "../../../assets/Images/SDG1.png"
+import sdg2 from "../../../assets/Images/SDG2.png"
+import sdg4 from "../../../assets/Images/SDG4.png"
 import sdg13 from "../../../assets/Images/SDG13.jpg"
 import sdg3 from "../../../assets/Images/SDG3.png"
 
