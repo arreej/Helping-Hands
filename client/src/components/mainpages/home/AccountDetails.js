@@ -7,24 +7,23 @@ function AccountDetails() {
     <div class="card-front">
       <div class="card-logo">
       </div>
-      <div class="card-number">
-        <span>1234 5678 9101 1121</span>
-      </div>
+      
       <div class="card-info">
         <div class="card-holder">
-          <label>Card Holder</label>
-          <span>John Doe</span>
+          <span>Account Title : Transparent Hands Trust</span>
         </div>
         <div class="card-expiry">
-          <label>Expires</label>
-          <span>12/23</span>
+          <span>Account Number: 220951896</span>
         </div>
+      </div>
+      <div class="card-number">
+        <span>IBAN Number: PK46 UNIL 0109 0002 2095 1896</span>
       </div>
     </div>
     <div class="card-back">
       <div class="card-cvv">
-        <label>CVV</label>
-        <span>123</span>
+        <label>For any query email us at :</label><br/>
+        <span> helpinghands471@gmail.com</span>
       </div>
     </div>
   </div>
